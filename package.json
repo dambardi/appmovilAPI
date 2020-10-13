@@ -1,0 +1,23 @@
+{
+  "name": "rickandmorthyapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dambardi/appmovilAPI.git"
+  },
+  "author": "Damian Bardi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dambardi/appmovilAPI/issues"
+  },
+  "homepage": "https://github.com/dambardi/appmovilAPI#readme",
+  "dependencies": {
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
